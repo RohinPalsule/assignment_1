@@ -1,5 +1,6 @@
 #!/bin/bash
 
+git pull
 date +%c > version
 
 git add update-version.sh
